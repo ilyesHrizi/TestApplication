@@ -1,0 +1,14 @@
+
+?
+java:S1659")Declare "lonTextView" on a separate line.(“ “¹
+r
+java:S3252&"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(î’Ø¼ýÿÿÿÿ
+m
+java:S3252'"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(Ü³¨‚
+e
+java:S1874E"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶þÿÿÿÿ
+<	java:S131G""Add a default case to this switch.(×ö³–úÿÿÿÿ
+C
+java:S1604-"(Make this anonymous inner class a lambda(¼Åñ³úÿÿÿÿ
+f
+java:S1301G"KReplace this "switch" statement by "if" statements to increase readability.(×ö³–úÿÿÿÿ

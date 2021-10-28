@@ -1,0 +1,21 @@
+
+k
+;app/src/main/java/com/example/testapplication/Location.java,c\4\c41c62394793d2c4197a5b77d7b2e37cc53064c8
+o
+?app/src/main/java/com/example/testapplication/TestActivity.java,a\4\a4dba2f7f71e5350839c828ba581e7bb0d22d885
+@
+app/build.gradle,f\4\f4a01d6a4fcb971362ec00a83903fd3902f52164
+z
+Japp/src/main/java/com/example/testapplication/SQLlite/DataBaseHandler.java,a\b\ab8fdfe668a1c252dedb72787e1adc1195ff8ba4
+o
+?app/src/main/java/com/example/testapplication/MainActivity.java,e\0\e0bd04c3de3e001dc97c460a8087f7fcf176a905
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+j
+:app/src/main/java/com/example/testapplication/TestObj.java,6\8\6805f10977f907b52b9aa2f297bfc6ba2b073a9c
+r
+Bapp/src/test/java/com/example/testapplication/ExampleUnitTest.java,7\d\7d2ab9aad95ee1a75801a5822ee6679172e231d0
+q
+Aapp/src/main/java/com/example/testapplication/Login_Activity.java,2\4\24c2d6c7c08c6076127e2ab625ee8c0af8823767
+z
+Japp/src/androidTest/java/com/example/testapplication/TestActivityTest.java,a\f\af17f201f66f0a2ab09f93a6cbbb0b64df73182f

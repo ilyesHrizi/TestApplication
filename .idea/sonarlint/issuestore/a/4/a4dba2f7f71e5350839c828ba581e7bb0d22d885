@@ -1,0 +1,22 @@
+
+f	java:S116"QRename this field "poid_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÞÇë
+h	java:S116"SRename this field "taille_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÒÞÇë
+?
+java:S1659"$Declare "taille" on a separate line.(ÚÛºªûÿÿÿÿ
+<
+java:S1659"&Declare "location" on a separate line.(¿¶•ê
+9
+java:S1659"#Declare "value" on a separate line.(Ùüé¼
+<
+java:S1659"&Declare "taille_1" on a separate line.(ÒÞÇë
+V	java:S125?"<This block of commented-out lines of code should be removed.(ºÃÇ·ÿÿÿÿÿ
+Q	java:S125J"<This block of commented-out lines of code should be removed.(ªü¿µ
+c	java:S100Z"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°öì
+B
+java:S1125d"'Remove the unnecessary boolean literal.(¾’•øÿÿÿÿ
+f	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°öì
+f	java:S117Z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°öì
+>
+java:S1604-"(Make this anonymous inner class a lambda(ØÞÓÜ
+>
+java:S16044"(Make this anonymous inner class a lambda(Üê¦Ã

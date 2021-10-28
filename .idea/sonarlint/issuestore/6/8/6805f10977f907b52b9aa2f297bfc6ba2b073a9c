@@ -1,0 +1,27 @@
+
+{
+java:S1845]"`Rename method "Calculate_imc" to prevent any misunderstanding/clash with method "Calculate_IMC".(õü…¬ùÿÿÿÿ
+Y
+java:S1659"CDeclare "taille" and all following declarations on a separate line.(×ûÑ¸
+R
+java:S18545"7Remove this useless assignment to local variable "res".(Ÿ“š˜ÿÿÿÿÿ
+J
+java:S16565"/Remove or correct this useless self-assignment.(Ÿ“š˜ÿÿÿÿÿ
+c	java:S1007"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Şº
+Q	java:S125:"<This block of commented-out lines of code should be removed.(óê—¶
+V	java:S125R"<This block of commented-out lines of code should be removed.(öÚ–äúÿÿÿÿ
+h	java:S100]"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õü…¬ùÿÿÿÿ
+Q	java:S125`"<This block of commented-out lines of code should be removed.(óê—¶
+V	java:S125g"<This block of commented-out lines of code should be removed.(È ’Şıÿÿÿÿ
+P	java:S125m"<This block of commented-out lines of code should be removed.(Ñ¶ª|
+V	java:S125s"<This block of commented-out lines of code should be removed.(Ü¢¼şÿÿÿÿ
+V	java:S125x"<This block of commented-out lines of code should be removed.(öÚ–äúÿÿÿÿ
+P	java:S125~"<This block of commented-out lines of code should be removed.(ÿÖîW
+=
+java:S1068"'Remove this unused "imc" private field.(×ûÑ¸
+f	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Şº
+f	java:S1177"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Şº
+k	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õü…¬ùÿÿÿÿ
+k	java:S117]"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õü…¬ùÿÿÿÿ
+|
+java:S41655"aRemove this useless assignment; "res" already holds the assigned value along all execution paths.(Ÿ“š˜ÿÿÿÿÿ

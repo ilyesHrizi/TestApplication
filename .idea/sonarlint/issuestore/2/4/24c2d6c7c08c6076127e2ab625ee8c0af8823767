@@ -1,0 +1,26 @@
+
+e	java:S116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â„úÛ
+h	java:S116"SRename this field "Password" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(â„úÛ
+j	java:S116"PRename this field "Login" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅÝñØûÿÿÿÿ
+<
+java:S1659"&Declare "Password" on a separate line.(â„úÛ
+V
+java:S1854&"@Remove this useless assignment to local variable "emailPattern".(ƒ„´õ
+W
+java:S1854$"<Remove this useless assignment to local variable "password".(Àí©¢ýÿÿÿÿ
+T
+java:S1854#"9Remove this useless assignment to local variable "email".(Ó€ÚÅûÿÿÿÿ
+E
+java:S1481#"*Remove this unused "email" local variable.(Ó€ÚÅûÿÿÿÿ
+H
+java:S1481$"-Remove this unused "password" local variable.(Àí©¢ýÿÿÿÿ
+G
+java:S1481&"1Remove this unused "emailPattern" local variable.(ƒ„´õ
+P	java:S125+"<This block of commented-out lines of code should be removed.(ÅŽÃ8
+c	java:S100C"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•ãñ²
+h	java:S100S"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¤»”÷ÿÿÿÿÿ
+>
+java:S1604'"(Make this anonymous inner class a lambda(™Ì‘¸
+>
+java:S16042"(Make this anonymous inner class a lambda(¸å•þ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÝÇÍš
